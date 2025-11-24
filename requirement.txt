@@ -1,0 +1,3 @@
+git i -D nodemon
+
+git i mongoose express dotenv

@@ -1,3 +1,2 @@
-git i -D nodemon
-
-git i mongoose express dotenv
+npm i mongoose express dotenv
+npm i -D nodemon
